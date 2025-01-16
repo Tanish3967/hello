@@ -1,4 +1,3 @@
-!pip install streamlit networkx matplotlib numpy
 import heapq
 import random
 import networkx as nx
